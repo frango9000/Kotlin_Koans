@@ -1,5 +1,6 @@
 # Project exclude paths
 /.gradle/
+/.idea/
 /Introduction/Default arguments/build/
 /Introduction/Hello, world/build/
 /Introduction/Lambdas/build/
@@ -9,3 +10,4 @@
 /Introduction/String templates/build/
 /Introduction/Triple-quoted strings/build/
 /util/build/
+/**/build/**
